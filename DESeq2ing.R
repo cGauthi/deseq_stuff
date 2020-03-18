@@ -29,7 +29,6 @@ library(ggplot2)
 library(apeglm)
 library(limma)
 
-
 ##---------------------------------FILE PREPARATION----------------------------------##
 
 ## useMart is a function used to connect to the selected BioMart database and dataset
